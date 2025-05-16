@@ -11,3 +11,5 @@ These are all projects written in Python, some in Django Framework, completed as
 <li><a href="https://github.com/joshmetzger/Python-Projects/tree/main/student_tracker">Student Tracker</a></li>
 </ul>
 
+<h1>Django University</h1>
+<p>create edit and delete university courses for students, and the campuses where they occur.</p>
